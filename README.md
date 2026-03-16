@@ -76,9 +76,9 @@ The database supports relationships such as:
 ---
 ## ER Diagram
 
-![ER Diagram](docs/ER-Diagram.png)
+![ER Diagram](doc/ER-Diagram.png)
 
-[Download full PDF](docs/ER-Diagram.pdf)
+[Download full PDF](doc/ER-Diagram.pdf)
 
 
 ## Advanced SQL Features
