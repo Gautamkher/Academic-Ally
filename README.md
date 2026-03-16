@@ -74,6 +74,12 @@ The database supports relationships such as:
 - Classes containing multiple students
 
 ---
+## ER Diagram
+
+![ER Diagram](docs/ER-Diagram.png)
+
+[Download full PDF](docs/ER-Diagram.pdf)
+
 
 ## Advanced SQL Features
 
