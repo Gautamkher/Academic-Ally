@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-Flask-blue)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![SQL](https://img.shields.io/badge/SQL-Stored%20Procedures-green)
+
 # Academic Ally
 
 Academic Ally is a **full-stack academic analytics platform** designed to help students track academic performance while giving instructors actionable insights into course outcomes.
@@ -165,16 +170,27 @@ My primary contributions to the project included:
 ```
 Academic-Ally
 │
-├── backend
-├── frontend
-├── database
-│   ├── schema.sql
-│   ├── procedures.sql
-│   └── triggers.sql
-├── docs
-│   ├── ER_Diagram.pdf
-│   └── project_report.pdf
-└── README.md
+├── academic-ally
+│   ├── BE
+│   │   ├── app
+│   │   │   ├── databases.py        # Database configuration and connection setup
+│   │   │   ├── blueprints          # API route blueprints
+│   │   │   ├── faculty             # Faculty related endpoints and logic
+│   │   │   ├── feedback            # Feedback processing modules
+│   │   │   └── student             # Student related endpoints and analytics
+│   │   │
+│   │   └── main.py                 # Backend application entry point
+│   │
+│   └── FE
+│       └── academic-ally
+│           ├── public              # Static assets
+│           └── src                 # Frontend source code (React components)
+│
+└── docs
+    ├── Database Design Document
+    ├── SQL Commands
+    ├── ER Diagram
+    └── Project Description
 ```
 
 ---
