@@ -1,9 +1,17 @@
+<h1 align="center">Academic Ally</h1>
+
+<p align="center">
+Full-stack academic analytics platform for students and faculty
+</p>
+
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-Flask-blue)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![SQL](https://img.shields.io/badge/SQL-Stored%20Procedures-green)
 
-# Academic Ally
+</p>
 
 Academic Ally is a **full-stack academic analytics platform** designed to help students track academic performance while giving instructors actionable insights into course outcomes.
 
